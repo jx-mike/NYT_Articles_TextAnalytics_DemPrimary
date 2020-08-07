@@ -1,4 +1,4 @@
-# NYT_Articles_democraticPrimary
+# Democratic Primary -- Text Analysis on NYT News Articles
 
 In this project, we dived into the 2020 Democratic Primary election and focused on Joe Biden and his biggest competitor Bernie Sanders. We are committed to finding out the correlation between candidate’s performance with media reports mentions and fundraising. To achieve that, we did topic modeling, sentiment analysis and generated word-clouds by using the unstructured data of the New York Times articles since Feb 1 until March 2. We employed logistic regression to find out the accuracy of predicting delegate-won results from fundraising information. 
 The topic modeling gave us an idea about what is mainly talked about regarding Joe Biden and Bernie Sanders. 
