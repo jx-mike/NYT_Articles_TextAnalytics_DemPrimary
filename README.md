@@ -8,7 +8,7 @@ Regarding the correlation between candidate’s performance in winning a state w
 
 
 ## Topic Modeling for News Articles’ Headlines
-A word cloud based on the frequency of the words in headlines is plotted at the beginning. From this very initial exploration (Appendix A), we can already see “Sanders” being heavily weighted in NYT’s headlines. We then proceed with topic modeling to gain more insights on how these headlines can be classified into different topics.
+A word cloud based on the frequency of the words in headlines is plotted at the beginning. From this very initial exploration, we can already see “Sanders” being heavily weighted in NYT’s headlines. We then proceed with topic modeling to gain more insights on how these headlines can be classified into different topics.
 
 Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA) are the two major techniques used in this analysis to understand text by modeling topics it represents. Both techniques are unsupervised learning, where headlines with similar “topics” will be clustered together. LSA works similar as PCA does by only keeping the most significant dimensions in transformed space. LDA works under Bayesian assumptions, where it looks at the probability distribution of certain words given the distribution of a particular topic. The main goal is to compare the two techniques and lead our way into the following sections, in which the magnitude and the complexity of the raw text increases dramatically.
 
